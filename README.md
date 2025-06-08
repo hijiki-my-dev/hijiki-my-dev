@@ -1,4 +1,5 @@
 <!-- https://qiita.com/mmnn/items/cf465d271171cba8bd51 -->
+
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=hijiki-my-dev" />
@@ -21,7 +22,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,python,c,cs,git,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,python,c,unity,cs,git,docker,aws" />
 <br>
 
 <!--
